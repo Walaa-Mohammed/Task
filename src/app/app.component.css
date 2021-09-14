@@ -1,0 +1,5 @@
+.body {background-color: #eeeeeec2;}
+/* lightgray */
+
+.order-section .saled-order .rotation {position: relative; left: 30px; top: 20px;}
+.order-section .saled-order .rotate {transform: rotate(45deg);}
